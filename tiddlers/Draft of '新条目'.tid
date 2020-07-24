@@ -1,7 +1,7 @@
 created: 20200724030906148
 draft.of: 新条目
 draft.title: Test
-modified: 20200724031026897
+modified: 20200724031031671
 tags: 
 title: Draft of '新条目'
 type: text/x-markdown
@@ -12,6 +12,6 @@ type: text/x-markdown
 
 ```java
 public void main(String[] args){
-	
+	System.out.p
 }
 ```
